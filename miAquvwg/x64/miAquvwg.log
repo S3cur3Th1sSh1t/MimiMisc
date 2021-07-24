@@ -1,0 +1,55 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Platforms\x64\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Die Unterstützung für Windows XP als Ziel wird eingestellt und ist in künftigen Versionen von Visual Studio nicht mehr enthalten. Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=2023588.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppBuild.targets(391,5): warning MSB8028: Das Zwischenverzeichnis (x64\) enthält freigegebene Dateien aus einem anderen Projekt (mimikatz.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  ydeuclqlacr.c
+  ydeuclqlasn1.c
+  ydeuclqlbusylight.c
+  ydeuclqlcabinet.c
+  ydeuclqlcred.c
+  ydeuclqlcrypto.c
+  ydeuclqlcrypto_ngc.c
+  ydeuclqlcrypto_remote.c
+  ydeuclqlcrypto_sk.c
+  ydeuclqldpapi.c
+  ydeuclqlfile.c
+  ydeuclqlhandle.c
+  ydeuclqlhid.c
+  ydeuclqlkernel.c
+  ydeuclqlkey.c
+  ydeuclqlldap.c
+  ydeuclqlnet.c
+  ydeuclqlmemory.c
+  ydeuclqlminidump.c
+  ydeuclqloutput.c
+  Kompilieren...
+  ydeuclqlpatch.c
+  ydeuclqlpipe.c
+  ydeuclqlpn532.c
+  ydeuclqlprocess.c
+  ydeuclqlrdm.c
+  ydeuclqlregistry.c
+  ydeuclqlremotelib.c
+  ydeuclqlservice.c
+  ydeuclqlsr98.c
+  ydeuclqltoken.c
+  ydeuclqlrpc.c
+  ydeuclqlrpc_bkrp.c
+  ydeuclqlrpc_dpapi-entries.c
+  ydeuclqlrpc_mimicom.c
+  ydeuclqlrpc_ms-bkrp_c.c
+  ydeuclqlrpc_ms-claims.c
+  ydeuclqlrpc_ms-credentialkeys.c
+  ydeuclqlrpc_ms-dcom_IObjectExporter_c.c
+  ydeuclqlrpc_ms-efsr_c.c
+  ydeuclqlrpc_ms-pac.c
+  Kompilieren...
+  ydeuclqlstring.c
+  ydeuclqlxml.c
+  ydeuclqlrpc_ms-par_c.c
+  ydeuclqlrpc_ms-rprn.c
+  miAquvwg.c
+  kcpdclqlmisc.c
+  kcpdclqlrpc.c
+  sqlite3.c
+  Code wird generiert.
+  Codegenerierung ist abgeschlossen.
+  miAquvwg.vcxproj -> C:\temp\mimikatz-master (1)\mimi\obfs\x64\miAquvwg.exe

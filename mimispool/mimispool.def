@@ -1,0 +1,10 @@
+LIBRARY
+EXPORTS
+	DrvQueryDriverInfo
+	DrvEnableDriver
+	DrvDisableDriver
+
+	DrvResetConfigCache
+
+	GenerateCopyFilePaths
+	SpoolerCopyFileEvent

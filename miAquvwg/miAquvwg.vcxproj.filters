@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\modules\ydeuclqlmemory.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlminidump.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlprocess.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlstring.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlfile.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlregistry.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlpatch.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqloutput.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\kcpdclqlmisc.c">
+      <Filter>local modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlhandle.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlnet.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlkernel.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlasn1.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlremotelib.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqldpapi.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlcrypto.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlkey.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlcred.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlbusylight.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlxml.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\rpc\ydeuclqlrpc.c">
+      <Filter>common modules\rpc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\rpc\ydeuclqlrpc_bkrp.c">
+      <Filter>common modules\rpc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\rpc\ydeuclqlrpc_ms-bkrp_c.c">
+      <Filter>common modules\rpc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\rpc\ydeuclqlrpc_ms-pac.c">
+      <Filter>common modules\rpc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\rpc\ydeuclqlrpc_ms-credentialkeys.c">
+      <Filter>common modules\rpc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\rpc\ydeuclqlrpc_dpapi-entries.c">
+      <Filter>common modules\rpc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\rpc\ydeuclqlrpc_ms-claims.c">
+      <Filter>common modules\rpc</Filter>
+    </ClCompile>
+    <ClCompile Include="modules\kcpdclqlrpc.c">
+      <Filter>local modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\rpc\ydeuclqlrpc_mimicom.c">
+      <Filter>common modules\rpc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlcabinet.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlrdm.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlhid.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlpipe.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlpn532.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlacr.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlldap.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\sqlite3.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlcrypto_sk.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\rpc\ydeuclqlrpc_ms-dcom_IObjectExporter_c.c">
+      <Filter>common modules\rpc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\rpc\ydeuclqlrpc_ms-rprn.c">
+      <Filter>common modules\rpc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlcrypto_remote.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\rpc\ydeuclqlrpc_ms-par_c.c">
+      <Filter>common modules\rpc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\rpc\ydeuclqlrpc_ms-efsr_c.c">
+      <Filter>common modules\rpc</Filter>
+    </ClCompile>
+    <ClCompile Include="miAquvwg.c">
+      <Filter>local modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlcrypto_ngc.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlservice.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqlsr98.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+    <ClCompile Include="..\modules\ydeuclqltoken.c">
+      <Filter>common modules</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="miAquvwg.h" />
+    <ClInclude Include="modules\kcpd_m.h">
+      <Filter>local modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlmemory.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlminidump.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlprocess.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlstring.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlfile.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlregistry.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlregistry_structures.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlpatch.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlcrypto_system.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqloutput.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\kcpdclqlmisc.h">
+      <Filter>local modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlhandle.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlnet.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlkernel.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlasn1.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlsamlib.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlremotelib.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqldpapi.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlcrypto.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlkey.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlcred.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlbusylight.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlxml.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\rpc\ydeuclqlrpc.h">
+      <Filter>common modules\rpc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\rpc\ydeuclqlrpc_bkrp.h">
+      <Filter>common modules\rpc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\rpc\ydeuclqlrpc_ms-bkrp.h">
+      <Filter>common modules\rpc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\rpc\ydeuclqlrpc_ms-pac.h">
+      <Filter>common modules\rpc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\rpc\ydeuclqlrpc_ms-credentialkeys.h">
+      <Filter>common modules\rpc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\rpc\ydeuclqlrpc_dpapi-entries.h">
+      <Filter>common modules\rpc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\rpc\ydeuclqlrpc_ms-claims.h">
+      <Filter>common modules\rpc</Filter>
+    </ClInclude>
+    <ClInclude Include="modules\kcpdclqlrpc.h">
+      <Filter>local modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\rpc\ydeuclqlrpc_mimicom.h">
+      <Filter>common modules\rpc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlcabinet.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlrdm.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlhid.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlpipe.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlpn532.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlacr.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlmifare.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlldap.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\sqlite3.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlcrypto_sk.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\rpc\ydeuclqlrpc_ms-dcom_IObjectExporter.h">
+      <Filter>common modules\rpc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\rpc\ydeuclqlrpc_ms-rprn.h">
+      <Filter>common modules\rpc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlcrypto_remote.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\rpc\ydeuclqlrpc_ms-par.h">
+      <Filter>common modules\rpc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\rpc\ydeuclqlrpc_ms-efsr.h">
+      <Filter>common modules\rpc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlcrypto_ngc.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlservice.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqlsr98.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+    <ClInclude Include="..\modules\ydeuclqltoken.h">
+      <Filter>common modules</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="local modules">
+      <UniqueIdentifier>{d7662bba-482f-4e4e-b70e-684a0ed816a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common modules">
+      <UniqueIdentifier>{ec0aa01a-68b1-4d2d-8b9c-5725a903bd92}</UniqueIdentifier>
+      <Extensions>
+      </Extensions>
+    </Filter>
+    <Filter Include="common modules\rpc">
+      <UniqueIdentifier>{36857c96-00a6-4cb6-8ca9-591d0561662c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="miAquvwg.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="miAquvwg.ico" />
+  </ItemGroup>
+</Project>
